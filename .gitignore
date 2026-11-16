@@ -1,0 +1,42 @@
+
+# ==========================================
+# NetBeans - Java with Ant
+# ==========================================
+
+# Archivos generados durante la compilación
+/build/
+/dist/
+
+# Configuración privada de NetBeans
+/nbproject/private/
+
+# ==========================================
+# Sistema operativo
+# ==========================================
+
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# ==========================================
+# Archivos temporales
+# ==========================================
+
+*.log
+*.swp
+*.swo
+*~
+*.tmp
+
+# ==========================================
+# Archivos de IDE adicionales
+# ==========================================
+
+.idea/
+*.iml
+.vscode/
