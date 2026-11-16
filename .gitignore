@@ -40,3 +40,5 @@ Desktop.ini
 .idea/
 *.iml
 .vscode/
+/UT02_Java/EjemplosUT2/nbproject/private/
+/UT02_Java/EjemplosUT2/build/
