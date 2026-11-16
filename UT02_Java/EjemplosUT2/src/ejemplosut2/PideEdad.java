@@ -6,7 +6,7 @@ package ejemplosut2;
 
 import java.util.Scanner;
 
-public class Ejercicio02 {
+public class PideEdad {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -8,7 +8,7 @@ package ejemplosut2;
  *
  * @author sergioramos
  */
-public class EjemplosUT2 {
+public class HolaMundo {
 
     /**
      * @param args the command line arguments
